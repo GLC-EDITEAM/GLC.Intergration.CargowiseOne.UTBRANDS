@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GLC.Intergration.CargowiseOne.UTBRANDS.Schemas", "GLC.Intergration.CargowiseOne.UTBRANDS.Schemas\GLC.Intergration.CargowiseOne.UTBRANDS.Schemas.btproj", "{AEA9D51C-2F9B-4FDC-BA57-5A7AB0FF3165}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GLC.Intergration.CargowiseOne.UTBRANDS.Pipelines", "GLC.Intergration.CargowiseOne.UTBRANDS.Pipelines\GLC.Intergration.CargowiseOne.UTBRANDS.Pipelines.btproj", "{E4E98431-63FD-42C2-859F-4F8649926151}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GLC.Intergration.CargowiseOne.UTBRANDS.Orchestrations", "GLC.Intergration.CargowiseOne.UTBRANDS.Orchestrations\GLC.Intergration.CargowiseOne.UTBRANDS.Orchestrations.btproj", "{CDE52B00-7E7D-4A8F-ADC2-0EC554ED610F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GLC.Intergration.CargowiseOne.UTBRANDS.PipelineCompoents", "GLC.Intergration.CargowiseOne.UTBRANDS.PipelineCompoents\GLC.Intergration.CargowiseOne.UTBRANDS.PipelineCompoents.csproj", "{DAF26624-AA12-4956-8CA0-804DB9BD7C50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEA9D51C-2F9B-4FDC-BA57-5A7AB0FF3165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEA9D51C-2F9B-4FDC-BA57-5A7AB0FF3165}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEA9D51C-2F9B-4FDC-BA57-5A7AB0FF3165}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{AEA9D51C-2F9B-4FDC-BA57-5A7AB0FF3165}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEA9D51C-2F9B-4FDC-BA57-5A7AB0FF3165}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEA9D51C-2F9B-4FDC-BA57-5A7AB0FF3165}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{E4E98431-63FD-42C2-859F-4F8649926151}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4E98431-63FD-42C2-859F-4F8649926151}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4E98431-63FD-42C2-859F-4F8649926151}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E4E98431-63FD-42C2-859F-4F8649926151}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4E98431-63FD-42C2-859F-4F8649926151}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4E98431-63FD-42C2-859F-4F8649926151}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{CDE52B00-7E7D-4A8F-ADC2-0EC554ED610F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDE52B00-7E7D-4A8F-ADC2-0EC554ED610F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDE52B00-7E7D-4A8F-ADC2-0EC554ED610F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CDE52B00-7E7D-4A8F-ADC2-0EC554ED610F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDE52B00-7E7D-4A8F-ADC2-0EC554ED610F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDE52B00-7E7D-4A8F-ADC2-0EC554ED610F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{DAF26624-AA12-4956-8CA0-804DB9BD7C50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAF26624-AA12-4956-8CA0-804DB9BD7C50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAF26624-AA12-4956-8CA0-804DB9BD7C50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAF26624-AA12-4956-8CA0-804DB9BD7C50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
